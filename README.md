@@ -265,7 +265,9 @@ Under the following terms:
 
 See the LICENSE.md file in this repository for the full legal code.
 
-⚠️ ETHICAL USE DECLARATION
+
+
+⚠️ ETHICAL USE DECLARATION ⚠️
 
 Intent and Purpose
 This conceptual work, the Autopoietic Specialist-Agent Network (ASAN), was created solely for peaceful, civilian, and beneficial applications of artificial intelligence. The architecture was designed to advance:
