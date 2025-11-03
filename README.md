@@ -32,7 +32,6 @@ Your idea deviates from traditional neural networks.
 
  6. Dynamic Growth: A missing specialist is created on demand.
 
-$$Image of an organically growing neural network$$
 
 3. Parallels in Current AI Research
 
