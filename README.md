@@ -4,7 +4,7 @@ Autopoietic Specialist-Agent Network (ASAN)
 
 Tagline: A directory-routed, energy-aware multi-agent Mixture-of-Experts architecture with on-demand autopoiesis, RAM-mode integration, and meta-agent economy.
 
-Author: Samuel Victor Miño Arnoso
+Author: Samuel Victor Miño Arnoso.
 
 This is an analysis of the proposed AI architecture (ASAN), based on the principle of intelligent, specialized agents that communicate decentrally, self-create, and adopt dynamic states.
 
