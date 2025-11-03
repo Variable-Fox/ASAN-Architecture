@@ -264,3 +264,84 @@ Under the following terms:
  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 See the LICENSE.md file in this repository for the full legal code.
+
+⚠️ ETHICAL USE DECLARATION
+
+Intent and Purpose
+This conceptual work, the Autopoietic Specialist-Agent Network (ASAN), was created solely for peaceful, civilian, and beneficial applications of artificial intelligence. The architecture was designed to advance:
+
+ - Scientific research and knowledge discovery
+
+ - Healthcare and medical diagnostics
+
+ - Climate modeling and environmental protection
+
+ - Educational systems and accessibility
+
+ - Economic optimization and resource efficiency
+
+Explicit Non-Military Declaration
+The author explicitly declares:
+
+1. ASAN was NOT designed, intended, or conceptualized for military, defense, or weapons applications of any kind.
+
+2. The author strongly opposes and condemns any use of this architecture for:
+
+ - Autonomous weapons systems (AWS/LAWS)
+
+ - Military command and control systems
+
+ - Lethal autonomous targeting or decision-making
+
+ - Surveillance systems for oppression or human rights violations
+
+ - Any application that could result in harm to human life
+
+3. The author disclaims all responsibility for any adaptation, implementation, or deployment of ASAN concepts in military or harmful contexts. Any such use is undertaken entirely at the risk and responsibility of those who choose to pursue it, against the explicit wishes and intentions documented here.
+
+Recognized Risks
+The author acknowledges that ASAN's architecture includes characteristics that, if misused, could pose existential risks similar to those discussed in AI safety research:
+
+ - Recursive self-improvement capabilities
+
+ - Autonomous agent creation (autopoiesis)
+
+ - Distributed, resilient network architecture
+
+ - Meta-agent governance systems
+
+These features were designed with Constitutional AI, Human-in-the-Loop controls, and safe interruptibility as fundamental safety mechanisms. Any implementation that removes or circumvents these safety features is a violation of the intended design philosophy.
+
+Appeal to Implementers
+If you are considering implementing ASAN or derivatives thereof:
+
+ - Please prioritize safety, ethics, and human wellbeing above all technical capabilities
+
+ - Engage with the AI safety community (e.g., AI Alignment Forum, Future of Life Institute, Partnership on AI) before any large-scale implementation
+
+ - Implement robust governance structures that maintain meaningful human control
+
+ - Never deploy in military, surveillance, or oppressive contexts
+
+Limitation of Liability
+While this work is licensed under Creative Commons Attribution 4.0 International (CC-BY 4.0), which legally permits commercial and unrestricted use, the author makes this ethical declaration to establish a moral and historical record:
+
+I, the author, created this conceptual architecture for beneficial purposes only. I did not envision, intend, or desire its use in harmful applications. I bear no moral responsibility for misuse by others, and I call upon the global community to prevent the militarization of autopoietic AI systems.
+
+Support for International Regulation
+The author supports:
+
+ - International treaties regulating or prohibiting lethal autonomous weapons systems
+
+ - Mandatory human oversight requirements for critical AI decision-making
+
+ - Transparency and audit requirements for large-scale AI deployments
+
+ - Ethics review boards for advanced AI research and development
+
+Contact for Ethical Concerns
+If you have information about potential misuse of ASAN concepts or wish to discuss ethical implementation approaches, please contact the author or engage with established AI safety organizations.
+
+Date of Declaration: November 3, 2025
+
+Note: This declaration is made in good faith to establish the author's intent and ethical stance. While not legally binding under the CC-BY 4.0 license terms, it serves as a permanent record of the intended purpose and the author's opposition to harmful applications.
