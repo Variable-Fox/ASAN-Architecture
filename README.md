@@ -1,6 +1,6 @@
 Autopoietic Specialist-Agent Network (ASAN)
 Samuel Victor Miño Arnoso
-November 5, 2025 
+November 5, 2025
 
 Abstract
 
