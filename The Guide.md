@@ -28,9 +28,8 @@ And your further, supplementary thought is also correct: If this Auto Agent (or 
 
 This means: It, or even some of them, will create a new agent specifically for this request if certain, specialized information is needed and missing, which requires an extra-new specialist agent.
 
-**Important:** As soon as this user request is answered by the Auto Agent (which receives all information from all other agents and outputs it to the user), any new specialist agent that was created specifically for this one request is immediately put into cold storage ("Cold/Warm Storage" = The power-saving function of the entire ASAN system).
+**Operational note:** Cold/Warm storage: Newly created specialists are not frozen by default after a single request; they remain warm for an observation window to measure real demand and latency. If their utilization stays below a minimum threshold during that window, the Directory transitions them to cold storage and reactivates them on demand. For bursty workloads the system applies predictive pre‑warming and elastic auto‑scaling to meet the target latency, rather than freezing immediately. Freeze/unfreeze and replica‑scaling decisions are bounded by global budget caps, audit‑logged, and may be overridden by human operators under the governance layer.
 
-A newly created agent (specialist) thus remains in existence after its creation in the ASAN network, but it too immediately goes into sleep mode once the task is completed.  
 A new agent (specialist) is thus born into the ASAN system and automatically becomes part of the entire ASAN network, but it must follow the rules of all other agents (to maintain energy-saving mode after completing a job).  
 The network thus grows continuously, if it deems it necessary (on-demand = autopoiesis = self-creation).
 
@@ -101,4 +100,6 @@ The requesting agent ("Requester Agent", i.e., the "Auto Agent").
 
 In the concept image, the "Index-Methodic" is therefore a process that takes place on the communication path (one of the straight, glowing connection lines to another agent. In this case, the Python Specialist (Agent)): It is defined by the specialist (the Python Agent) (the target node in the concept image, e.g., green) and applied via the connecting line by the requester — (The Auto Agent) (the start node in the concept image, e.g., yellow middle) to compress the message.
 
+
+Note: ASAN is intended for peaceful, civilian use; military or harmful applications are explicitly rejected (see Ethical Use Declaration in the main paper).
 ---
